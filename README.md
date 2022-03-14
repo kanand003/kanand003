@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Anand Kumar
 
+### :technologist: About Me :
+[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/And_K03)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anand-kumar-003/)
+![](https://komarev.com/ghpvc/?username=your-github-kanand003&style=for-the-badge&color=red)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
