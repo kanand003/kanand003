@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Anand Kumar
+## Hi there 👋 I'm Anand Kumar
 <div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1200" height="300"/>
 </div>
@@ -14,7 +14,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-kanand003&style=for-the-badge&color=red)
 
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="80" height="80"/>&nbsp;
@@ -25,8 +25,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photshop" alt="Photoshop" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
 </div>
+
+## &#x1f4c8; GitHub Stats:
+
 <br>
-<br>
+
 <a href="https://github.com/kanand003">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanand003&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
