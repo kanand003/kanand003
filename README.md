@@ -5,7 +5,7 @@
 
 - 🎮 I’m working as a Game Programmer
 - :zap: In my free time, I play games, read books and listen to music.
-- 🌱 I’m currently learning about Game Engine Architecture.
+- 🌱 I’m currently playing FAR Changing Tides.
 - 😄 Pronouns: he/him
 
 
