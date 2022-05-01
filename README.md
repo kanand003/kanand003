@@ -11,6 +11,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/And_K03)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anand-kumar-003/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@and03)
 ![](https://komarev.com/ghpvc/?username=your-github-kanand003&style=for-the-badge&color=red)
 [![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://anandkkumar003.wixsite.com/website)
 ## :hammer_and_wrench: Languages and Tools :
