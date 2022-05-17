@@ -5,7 +5,6 @@
 
 - 🎮 I’m working as a Game Programmer
 - :zap: In my free time, I play games, read books and listen to music.
-- 🌱 I’m currently playing Ori and the Blind Forest.
 - 😄 Pronouns: he/him
 
 
