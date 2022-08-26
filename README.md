@@ -10,7 +10,6 @@
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anand-kumar-003/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@and03)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNydTRd31XpraLTUCSYZO4g)
 ![](https://komarev.com/ghpvc/?username=your-github-kanand003&style=for-the-badge&color=red)
 
