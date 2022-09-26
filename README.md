@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Anand Kumar
 <div align="left">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="300"/>
+
+  <img src="https://media.giphy.com/media/3otPoptHYvXtDAqwxO/giphy.gif" width="800" height="300"/>
 </div>
 
 - 🎮 I’m working as a Game Programmer
