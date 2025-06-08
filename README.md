@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/3otPoptHYvXtDAqwxO/giphy.gif" width="800" height="300"/>
 </div>
 
-- 🎮 I’m working as a Game Programmer
+- 🎮 I’m working as a Game Programmer and interested in Backend and Systems Programming
 - :zap: In my free time, I play games, read books and listen to music.
 - 😄 Pronouns: he/him
 
